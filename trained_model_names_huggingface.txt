@@ -1,0 +1,6 @@
+Based on BEREL 1.0:
+
+trained on shuffled dataset of the Hebrew Bible with seqs of 3 clauses:
+
+3 epochs:
+martijn75/berel_finetuned_on_shuffled_HB_3_epochs_general
